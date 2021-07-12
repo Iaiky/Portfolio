@@ -1,0 +1,12 @@
+
+.body{
+  
+  height: auto;
+  border-style: ridge;
+  margin: 0;
+  padding: 0;
+}
+.progress{
+  width: 200px;
+}
+
